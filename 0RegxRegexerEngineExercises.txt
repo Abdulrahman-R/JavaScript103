@@ -1,0 +1,44 @@
+//here you can find all exercises done in Regexer Engine
+ along with their links on the platform
+
+Global flag exercise
+regexr.com/7cdbr
+
+Case Insensitive Flag exercise
+regexr.com/7cdbu
+
+Literal Characters exercise
+regexr.com/7cdc7
+
+Wildcard exercise
+regexr.com/7cdca
+
+Escaping Metacharacters exercise
+regexr.com/7cdcd
+
+Characters Sets exercise
+regexr.com/7cdcm
+
+Ranges exercise
+regexr.com/7cddb
+
+Negative Character exercise
+regexr.com/7cddn
+
+shortcut in sets exercise
+regexr.com/7cddt
+
+Repetition exercise 
+regexr.com/7cde6
+
+Grouping exercise 
+regexr.com/7cdfg
+
+Alteration exercise 
+regexr.com/7cdfp
+
+conditional regex (?=) exercise 
+regexr.com/7cdge
+
+conditional regex (?!) exercise 
+regexr.com/7cdh3
